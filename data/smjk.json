@@ -30,6 +30,72 @@
             "folder": "Morrowsend",
             "description": "A cozy evening at The Weeping Willow Tavern, where patrons gather to share stories, laughter, and camaraderie over hearty meals and refreshing drinks. A warm refuge in the quaint town of Morrowsend.",
             "url": "https://pathfinder.mccormick.page/img/smjk_tavern.png"
+        },
+        {
+            "title": "SMJK Campaign Images",
+            "images": [
+                {
+                    "name": "Campaign Title Image",
+                    "folder": "General",
+                    "description": "This is the image that appears on the title page. No direct gameplay content",
+                    "url": "https://pathfinder.mccormick.page/img/smjk_new_overview_shot.png"
+                },
+                {
+                    "name": "Outside of the Hut",
+                    "folder": "Hut",
+                    "description": "A small, moss-covered wooden hut sits in a clearing amidst the dense forest. Its roof is overgrown with vines, and the door hangs ajar. Various herbs and plants are scattered haphazardly around the hut, and a long-neglected garden of mysterious plants thrives in the wild outside.",
+                    "url": "https://pathfinder.mccormick.page/img/smjk_hut_outside.png"
+                },
+                {
+                    "name": "Morrowsend Market",
+                    "folder": "Morrowsend",
+                    "description": "A vibrant day in Morrowsend's bustling marketplace, where merchants display their wares and buskers entertain the crowd with enchanting tunes. A testament to the lively spirit of the townsfolk.",
+                    "url": "https://pathfinder.mccormick.page/img/smjk_market.png"
+                },
+                {
+                    "name": "Morrowsend Town Hall",
+                    "folder": "Morrowsend",
+                    "description": "Morrowsend's grand town hall, adorned with intricate carvings and bathed in the golden glow of the setting sun. A symbol of governance and unity in the heart of the town.",
+                    "url": "https://pathfinder.mccormick.page/img/smjk_townhall.png"
+                },
+                {
+                    "name": "Weeping Willow Tavern",
+                    "folder": "Morrowsend",
+                    "description": "A cozy evening at The Weeping Willow Tavern, where patrons gather to share stories, laughter, and camaraderie over hearty meals and refreshing drinks. A warm refuge in the quaint town of Morrowsend.",
+                    "url": "https://pathfinder.mccormick.page/img/smjk_tavern.png"
+                },
+                {
+                    "name": "Narell",
+                    "folder": "Characters",
+                    "description": "Narell is the wise village elder with long silver hair adorned with a wreath of forest flowers. She wears an elegant robe embroidered with mystical symbols and carries an ancient tome.",
+                    "url": "https://pathfinder.mccormick.page/img/smjk_narell.png"
+                },
+                {
+                    "name": "Bromir",
+                    "folder": "Characters",
+                    "description": "Bromir is a seasoned adventurer and mentor with a grizzled beard and battle scars. He wears sturdy leather armor and carries a well-used greatsword on his back.",
+                    "url": "https://pathfinder.mccormick.page/img/smjk_bromir.png"
+                },
+                {
+                    "name": "Aria",
+                    "folder": "Characters",
+                    "description": "Aria is a skilled archer and member of the elusive Moonshadow Elves. She is secretive and loyal, with a graceful demeanor.",
+                    "url": "https://pathfinder.mccormick.page/img/smjk_aria.png"
+                },
+                {
+                    "name": "Thane",
+                    "folder": "Characters",
+                    "description": "Thane is a cunning rogue with a charming and mischievous demeanor. He wears dark, well-fitted clothing and carries various tools of his trade.",
+                    "url": "https://pathfinder.mccormick.page/img/smjk_thane.png"
+                },
+                {
+                    "name": "Lycia",
+                    "folder": "Characters",
+                    "description": "Lycia is an intelligent and remorseful sorceress, seeking redemption for her past actions. She wears an enchanted robe and carries a magical staff.",
+                    "url": "https://pathfinder.mccormick.page/img/smjk_lycia.png"
+                }
+            ]
         }
+        
     ]
 }
