@@ -3,13 +3,13 @@
     "images": [
         {
             "name": "Campaign Title Image",
-            "folder": "general",
+            "folder": "General",
             "description": "This is the image that appears on the title page. No direct gameplay content",
             "url": "https://pathfinder.mccormick.page/img/smjk_new_overview_shot.png"
         },
         {
             "name": "Outside of the Hut",
-            "folder": "hut",
+            "folder": "Hut",
             "description": "A small, moss-covered wooden hut sits in a clearing amidst the dense forest. Its roof is overgrown with vines, and the door hangs ajar. Various herbs and plants are scattered haphazardly around the hut, and a long-neglected garden of mysterious plants thrives in the wild outside.",
             "url": "https://pathfinder.mccormick.page/img/smjk_hut_outside.png"
         }
