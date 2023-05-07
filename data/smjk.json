@@ -12,6 +12,24 @@
             "folder": "Hut",
             "description": "A small, moss-covered wooden hut sits in a clearing amidst the dense forest. Its roof is overgrown with vines, and the door hangs ajar. Various herbs and plants are scattered haphazardly around the hut, and a long-neglected garden of mysterious plants thrives in the wild outside.",
             "url": "https://pathfinder.mccormick.page/img/smjk_hut_outside.png"
+        },
+        {
+            "name": "Morrowsend Market",
+            "folder": "Morrowsend",
+            "description": "A vibrant day in Morrowsend's bustling marketplace, where merchants display their wares and buskers entertain the crowd with enchanting tunes. A testament to the lively spirit of the townsfolk.",
+            "url": "https://pathfinder.mccormick.page/img/smjk_market.png"
+        },
+        {
+            "name": "Morrowsend Town Hall",
+            "folder": "Morrowsend",
+            "description": "Morrowsend's grand town hall, adorned with intricate carvings and bathed in the golden glow of the setting sun. A symbol of governance and unity in the heart of the town.",
+            "url": "https://pathfinder.mccormick.page/img/smjk_townhall.png"
+        },
+        {
+            "name": "Weeping Willow Tavern",
+            "folder": "Morrowsend",
+            "description": "A cozy evening at The Weeping Willow Tavern, where patrons gather to share stories, laughter, and camaraderie over hearty meals and refreshing drinks. A warm refuge in the quaint town of Morrowsend.",
+            "url": "https://pathfinder.mccormick.page/img/smjk_tavern.png"
         }
     ]
 }
